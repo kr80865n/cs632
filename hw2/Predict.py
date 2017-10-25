@@ -20,8 +20,8 @@ CAT_OUTPUT_LABEL = 1
 DOG_OUTPUT_LABEL = 0
 
 
-TEST_FILE = "validation.npy"
-
+#TEST_FILE = "validation.npy"
+TEST_FILE= sys.argv[1]
 
 OUT_FILE = "predictions.txt"
 BATCH_SIZE = 20
