@@ -1,1 +1,9 @@
 Youtube Link https://www.youtube.com/watch?v=TV3FqodQPjY or https://youtu.be/kSgWXfAPFIQ
+
+
+## Introduction:
+In this project I have create a generative model for text, character-by-character using LSTM recurrent neural networks in Python with Keras.
+Recurrent neural networks can also be used as generative models. LSTM recurrent neural networks can be slow to train and it is highly 
+recommend that you train them on GPU hardware. The dependencies between characters and the conditional probabilities of characters in 
+sequences so that we can in turn generate wholly new and original sequences of characters. These project is not limited to text, 
+you can also experiment with other ASCII data, such as computer source code, marked up documents in LaTeX, HTML or Markdown and more.
